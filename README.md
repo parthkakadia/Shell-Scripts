@@ -7,3 +7,7 @@ scripts list the newly logged in/out users. It queries the list of users every 3
 ss.sh
 
 Matrix style screenshot with authentication (Under construction.)
+Usage:
+```sh
+$ gnome-terminal --fullscreen --hide-menubar --command ss.sh
+```
